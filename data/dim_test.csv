@@ -1,0 +1,21 @@
+TestDurableKey,TestName,TestCategory,LOINCCode,ExpectedTATMinutes,IsCurrent,RowEffectiveDate,RowEndDate,RowStatus
+1,Potassium,Immunology,LOINC-00001,45,1,2024-01-01,9999-12-31,Active
+2,LDL-C,Hematology,LOINC-00002,90,1,2024-01-01,9999-12-31,Active
+3,HbA1c,Hematology,LOINC-00003,45,1,2024-01-01,9999-12-31,Active
+4,Vitamin D,Hematology,LOINC-00004,90,1,2024-01-01,9999-12-31,Active
+5,Lead (Pediatric),Microbiology,LOINC-00005,45,1,2024-01-01,9999-12-31,Active
+6,CBC,Immunology,LOINC-00006,90,1,2024-01-01,9999-12-31,Active
+7,BMP,Hematology,LOINC-00007,45,1,2024-01-01,9999-12-31,Active
+8,CMP,Microbiology,LOINC-00008,120,1,2024-01-01,9999-12-31,Active
+9,TSH,Hematology,LOINC-00009,45,1,2024-01-01,9999-12-31,Active
+10,Free T4,Microbiology,LOINC-00010,45,1,2024-01-01,9999-12-31,Active
+11,Urine Microalbumin,Hematology,LOINC-00011,45,1,2024-01-01,9999-12-31,Active
+12,Urine Culture,Chemistry,LOINC-00012,45,1,2024-01-01,9999-12-31,Active
+13,CRP,Hematology,LOINC-00013,60,1,2024-01-01,9999-12-31,Active
+14,ESR,Hematology,LOINC-00014,120,1,2024-01-01,9999-12-31,Active
+15,Ferritin,Immunology,LOINC-00015,45,1,2024-01-01,9999-12-31,Active
+16,Iron,Immunology,LOINC-00016,45,1,2024-01-01,9999-12-31,Active
+17,B12,Chemistry,LOINC-00017,45,1,2024-01-01,9999-12-31,Active
+18,Folate,Hematology,LOINC-00018,120,1,2024-01-01,9999-12-31,Active
+19,Glucose,Hematology,LOINC-00019,45,1,2024-01-01,9999-12-31,Active
+20,Lipase,Immunology,LOINC-00020,45,1,2024-01-01,9999-12-31,Active

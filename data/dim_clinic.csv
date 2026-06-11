@@ -1,0 +1,11 @@
+ClinicDurableKey,ClinicName,Region,HasUrineCollection,IsCurrent,RowEffectiveDate,RowEndDate,RowStatus
+1,Clinic Site 1,North,0,1,2024-01-01,9999-12-31,Active
+2,Clinic Site 2,East,0,1,2024-01-01,9999-12-31,Active
+3,Clinic Site 3,South,0,1,2024-01-01,9999-12-31,Active
+4,Clinic Site 4,North,0,1,2024-01-01,9999-12-31,Active
+5,Clinic Site 5,Central,1,1,2024-01-01,9999-12-31,Active
+6,Clinic Site 6,North,0,1,2024-01-01,9999-12-31,Active
+7,Clinic Site 7,North,0,1,2024-01-01,9999-12-31,Active
+8,Clinic Site 8,South,0,1,2024-01-01,9999-12-31,Active
+9,Clinic Site 9,Central,0,1,2024-01-01,9999-12-31,Active
+10,Clinic Site 10,Central,1,1,2024-01-01,9999-12-31,Active

@@ -1,0 +1,5 @@
+SpecimenDurableKey,SpecimenType,TubeType,CollectionMethod,VolumeML,IsCurrent,RowEffectiveDate,RowEndDate,RowStatus
+1,Blood,Red Top,Venipuncture,5,1,2024-01-01,9999-12-31,Active
+2,Blood,Lavender,Capillary,5,1,2024-01-01,9999-12-31,Active
+3,Urine,Lavender,Urine Cup,5,1,2024-01-01,9999-12-31,Active
+4,Urine,Lavender,Swab,5,1,2024-01-01,9999-12-31,Active

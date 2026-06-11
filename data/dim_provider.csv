@@ -1,0 +1,51 @@
+ProviderDurableKey,ProviderName,Specialty,ProviderGroup,IsCurrent,RowEffectiveDate,RowEndDate,RowStatus
+1,Provider 1,Pediatrics,Group C,1,2024-01-01,9999-12-31,Active
+2,Provider 2,Family Medicine,Group B,1,2024-01-01,9999-12-31,Active
+3,Provider 3,Family Medicine,Group B,1,2024-01-01,9999-12-31,Active
+4,Provider 4,Internal Medicine,Group B,1,2024-01-01,9999-12-31,Active
+5,Provider 5,Internal Medicine,Group A,1,2024-01-01,9999-12-31,Active
+6,Provider 6,Cardiology,Group A,1,2024-01-01,9999-12-31,Active
+7,Provider 7,Internal Medicine,Group A,1,2024-01-01,9999-12-31,Active
+8,Provider 8,Internal Medicine,Group C,1,2024-01-01,9999-12-31,Active
+9,Provider 9,Internal Medicine,Group C,1,2024-01-01,9999-12-31,Active
+10,Provider 10,Pediatrics,Group B,1,2024-01-01,9999-12-31,Active
+11,Provider 11,Internal Medicine,Group C,1,2024-01-01,9999-12-31,Active
+12,Provider 12,Cardiology,Group A,1,2024-01-01,9999-12-31,Active
+13,Provider 13,Pediatrics,Group A,1,2024-01-01,9999-12-31,Active
+14,Provider 14,Family Medicine,Group B,1,2024-01-01,9999-12-31,Active
+15,Provider 15,Family Medicine,Group A,1,2024-01-01,9999-12-31,Active
+16,Provider 16,Internal Medicine,Group C,1,2024-01-01,9999-12-31,Active
+17,Provider 17,Family Medicine,Group B,1,2024-01-01,9999-12-31,Active
+18,Provider 18,Family Medicine,Group C,1,2024-01-01,9999-12-31,Active
+19,Provider 19,Cardiology,Group C,1,2024-01-01,9999-12-31,Active
+20,Provider 20,Internal Medicine,Group A,1,2024-01-01,9999-12-31,Active
+21,Provider 21,Pediatrics,Group C,1,2024-01-01,9999-12-31,Active
+22,Provider 22,Pediatrics,Group B,1,2024-01-01,9999-12-31,Active
+23,Provider 23,Cardiology,Group A,1,2024-01-01,9999-12-31,Active
+24,Provider 24,Pediatrics,Group C,1,2024-01-01,9999-12-31,Active
+25,Provider 25,Internal Medicine,Group A,1,2024-01-01,9999-12-31,Active
+26,Provider 26,Family Medicine,Group A,1,2024-01-01,9999-12-31,Active
+27,Provider 27,Cardiology,Group C,1,2024-01-01,9999-12-31,Active
+28,Provider 28,Internal Medicine,Group B,1,2024-01-01,9999-12-31,Active
+29,Provider 29,Family Medicine,Group C,1,2024-01-01,9999-12-31,Active
+30,Provider 30,Family Medicine,Group C,1,2024-01-01,9999-12-31,Active
+31,Provider 31,Pediatrics,Group C,1,2024-01-01,9999-12-31,Active
+32,Provider 32,Cardiology,Group A,1,2024-01-01,9999-12-31,Active
+33,Provider 33,Family Medicine,Group B,1,2024-01-01,9999-12-31,Active
+34,Provider 34,Pediatrics,Group A,1,2024-01-01,9999-12-31,Active
+35,Provider 35,Internal Medicine,Group B,1,2024-01-01,9999-12-31,Active
+36,Provider 36,Internal Medicine,Group B,1,2024-01-01,9999-12-31,Active
+37,Provider 37,Internal Medicine,Group B,1,2024-01-01,9999-12-31,Active
+38,Provider 38,Cardiology,Group B,1,2024-01-01,9999-12-31,Active
+39,Provider 39,Pediatrics,Group A,1,2024-01-01,9999-12-31,Active
+40,Provider 40,Pediatrics,Group A,1,2024-01-01,9999-12-31,Active
+41,Provider 41,Family Medicine,Group A,1,2024-01-01,9999-12-31,Active
+42,Provider 42,Family Medicine,Group A,1,2024-01-01,9999-12-31,Active
+43,Provider 43,Cardiology,Group B,1,2024-01-01,9999-12-31,Active
+44,Provider 44,Internal Medicine,Group B,1,2024-01-01,9999-12-31,Active
+45,Provider 45,Family Medicine,Group C,1,2024-01-01,9999-12-31,Active
+46,Provider 46,Internal Medicine,Group A,1,2024-01-01,9999-12-31,Active
+47,Provider 47,Cardiology,Group B,1,2024-01-01,9999-12-31,Active
+48,Provider 48,Cardiology,Group B,1,2024-01-01,9999-12-31,Active
+49,Provider 49,Family Medicine,Group A,1,2024-01-01,9999-12-31,Active
+50,Provider 50,Pediatrics,Group C,1,2024-01-01,9999-12-31,Active
