@@ -1,6 +1,6 @@
 # Laboratory_Operations_Dashboard
 ![Slide 1](img/Slide1.PNG)
-![Slide 2.1](img/Slide2.1.png)
+![Slide 2.1](img/dashboard.png)
 ![Slide 2](img/Slide2.PNG)
 ![Slide 3](img/Slide3.PNG)
 ![Slide 4](img/Slide4.PNG)
@@ -15,5 +15,5 @@
 ![Slide 13](img/Slide13.PNG)
 ![Slide 14](img/Slide14.PNG)
 ![Slide 15](img/Slide15.PNG)
-![Slide 15-1](img/Slide15-1.png)
+![Slide 15-1](img/dashboard.png)
 
